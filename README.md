@@ -71,3 +71,7 @@ Once executed, the script operates as a ghost process.
 - **Kernel Hooking**: Moving from `/dev/input` monitoring to kernel-level hooks for deeper evasion.
 
 ---
+
+<p align="center">
+  With ❤️ by <b>Aradhya</b>
+</p>
