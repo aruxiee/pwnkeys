@@ -73,5 +73,5 @@ Once executed, the script operates as a ghost process.
 ---
 
 <p align="center">
-  With ❤️ by <b>Aradhya</b>
+  With ❤️ by <b>Arusha</b>
 </p>
